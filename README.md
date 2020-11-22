@@ -1,2 +1,2 @@
-# Artemis
+# ArtemiX
 Hobby OS project
