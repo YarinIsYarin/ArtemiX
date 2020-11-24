@@ -1,0 +1,6 @@
+{
+    "C_Cpp.default.compilerPath": "x86_64-elf-gcc",
+    "C_Cpp.default.cStandard": "gnu17",
+    "C_Cpp.default.includePath": ["${workspaceFolder}/limine/stivale/",],
+    "C_Cpp.default.compilerArgs": ["-ffreestanding"]
+}
